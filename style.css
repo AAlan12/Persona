@@ -1,0 +1,14 @@
+@import url("styles/header.css");
+
+
+:root {
+    --branco : #FFFFFF;
+    --preto : #000000;
+    --font-principal: "Poppins", sans-serif;
+}
+
+body {
+    background-color: var(--preto);
+    color: var(--branco);
+    font-family: var(--font-principal);
+}
