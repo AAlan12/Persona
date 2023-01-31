@@ -4,6 +4,9 @@
 :root {
     --branco : #FFFFFF;
     --preto : #000000;
+    --azul : #374B93;
+    --amarelo : #FFF041; 
+    --vermelho : #ED1D24;
     --font-principal: "Poppins", sans-serif;
 }
 

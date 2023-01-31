@@ -1,0 +1,46 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+
+.container-titulo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.container-titulo:hover {
+    color: var(--vermelho);
+}
+
+.lista-menu {
+    position: relative;
+}
+
+.lista-menu .lista-menu__items a{
+    position: relative;
+    color: var(--branco);
+    font-size: 1em;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+.lista-menu .lista-menu__items a:before {
+    content: '';
+    position: absolute;
+    background: var(--azul);
+    width: 0;
+    height: 3px;
+    bottom: 0;
+    left: 0;
+    transition: 0.3s ease;
+}
+
+.lista-menu .lista-menu__items a:hover:before {
+    width: 100%;
+    background: var(--vermelho);
+}
+
