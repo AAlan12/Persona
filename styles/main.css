@@ -11,3 +11,12 @@
 h5 {
     font-size: 30px;
 }
+
+.btn-txt {
+    color: var(--branco);
+    text-decoration: none;
+}
+.btn-txt-p4 {
+    color: var(--preto);
+    text-decoration: none;
+}
