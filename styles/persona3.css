@@ -20,11 +20,13 @@
 }
 
 /* main */
-/* .container-banner {
-    background-image: url("../img/persona 3.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    height: 100vh;
-    display: grid;
-    grid-template-columns: 50% 50%;
-}  */
+
+.img-banner {
+    height: 720px;
+}
+
+.phase {
+    font-style: italic;
+    font-size: 38px;
+    margin-top: 25px;
+}
