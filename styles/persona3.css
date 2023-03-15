@@ -1,0 +1,30 @@
+/* header */
+.container-titulo:hover {
+    color: var(--azul);
+}
+
+.lista-menu .lista-menu__items a:before {
+    content: '';
+    position: absolute;
+    background: var(--preto);
+    width: 0;
+    height: 3px;
+    bottom: 0;
+    left: 0;
+    transition: 0.3s ease;
+}
+
+.lista-menu .lista-menu__items a:hover:before {
+    width: 100%;
+    background: var(--azul);
+}
+
+/* main */
+/* .container-banner {
+    background-image: url("../img/persona 3.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}  */
