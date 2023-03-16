@@ -21,6 +21,9 @@
 
 /* main */
 
+.container__banner {
+    height: 720px;
+}
 .img-banner {
     height: 720px;
 }
@@ -29,4 +32,24 @@
     font-style: italic;
     font-size: 38px;
     margin-top: 25px;
+}
+
+.container__sinopse {
+    display: flex;
+    align-items: center;
+    margin: 10em 10em;    
+}
+
+.sinopse__box {
+    padding: 2em;
+}
+
+.sinopse__titulo {
+    font-weight: 700;
+    font-size: 48px;
+    margin-bottom: 0.1em;
+}
+
+.img__sinopse {
+    width: 50%;
 }
