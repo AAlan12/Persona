@@ -56,3 +56,20 @@ h5 {
 .img__sinopse {
     width: 50%;
 }
+
+.container__op {
+    text-align: center;
+    margin: 10em 10em;  
+}
+
+.op__titulo {
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.op__videos {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2em 1em;
+}
