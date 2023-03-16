@@ -126,6 +126,7 @@ h5 {
 }
 
 .links__icon {
+    /* site para mudar cor de svg : https://codepen.io/sosuke/pen/Pjoqqp */
     filter: invert(100%) sepia(10%) saturate(7492%) hue-rotate(178deg) brightness(99%) contrast(114%);
     width: 52px;
     padding: 7px;
@@ -140,3 +141,6 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: var(--azul);
+}
