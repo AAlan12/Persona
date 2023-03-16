@@ -73,3 +73,36 @@ h5 {
     justify-content: space-around;
     padding: 2em 1em;
 }
+
+.container__protagonista {
+    text-align: center;
+    margin: 10em 10em;
+}
+
+.protagonista__titulo {
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.img__protagonista {
+    width: 17%;
+}
+
+.protagonista__box {
+    display: flex;
+    align-items: center;    
+}
+
+.protagonista__titulo {
+    font-weight: 700;
+    font-size: 48px;
+    margin-bottom: 0.1em;
+}
+
+.img__orpheus {
+    width: 25%;
+}
+
+.img__thanatos {
+    width: 45%;
+}
