@@ -96,12 +96,7 @@ h5 {
     margin: 10em 10em;
 }
 
-.protagonista__titulo {
-    font-weight: 700;
-    font-size: 48px;
-}
-
-.img__protagonista {
+.img__protagonista-p3 {
     width: 17%;
 }
 
@@ -113,7 +108,7 @@ h5 {
 .protagonista__titulo {
     font-weight: 700;
     font-size: 48px;
-    margin-bottom: 0.1em;
+    margin-bottom: 0.5em;
 }
 
 .img__orpheus {
@@ -168,3 +163,14 @@ a:hover {
     filter: invert(0%) sepia(98%) saturate(0%) hue-rotate(314deg) brightness(97%) contrast(102%);
 }
 
+.img__protagonista-p4 {
+    width: 27%;
+}
+
+.img__izanagi {
+    width: 55%;
+}
+
+.img__okami {
+    width: 45%;
+}
