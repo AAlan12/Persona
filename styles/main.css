@@ -120,6 +120,7 @@ h5 {
 }
 
 .container__links {
+    margin-top: 5em;
     text-align: center;
 }
 
@@ -144,16 +145,13 @@ h5 {
     padding: 7px;
 }
 
-.links__item {
+.links__item-p3 {
     font-size: 32px;
-}
-
-a {
     color: var(--branco);
     text-decoration: none;
 }
 
-a:hover {
+.links__item-p3:hover {
     color: var(--azul);
 }
 
@@ -173,4 +171,14 @@ a:hover {
 
 .img__okami {
     width: 45%;
+}
+
+.links__item-p4 {
+    font-size: 32px;
+    color: var(--branco);
+    text-decoration: none;
+}
+
+.links__item-p4:hover {
+    color: var(--amarelo);
 }
