@@ -102,3 +102,46 @@ header {
     width: 100%;
     background: var(--azul);
 }
+
+/* persona 4 */
+
+.container-titulo__p4 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-left: 6em;
+}
+
+.container-titulo__p4:hover {
+    color: var(--amarelo);
+}
+
+.lista-menu__p4 {
+    position: relative;
+    margin-right: 12em;
+}
+
+.lista-menu__p4 .lista-menu__items__p4 a{
+    position: relative;
+    color: var(--branco);
+    font-size: 1em;
+    text-decoration: none;
+    margin-left: 30px;
+    transition: 0.3s ease;
+}
+
+.lista-menu__p4 .lista-menu__items__p4 a:before {
+    content: '';
+    position: absolute;
+    background: var(--preto);
+    width: 0;
+    height: 3px;
+    bottom: 0;
+    left: 0;
+    transition: 0.3s ease;
+}
+
+.lista-menu__p4 .lista-menu__items__p4 a:hover:before {
+    width: 100%;
+    background: var(--amarelo);
+}
