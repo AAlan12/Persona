@@ -16,10 +16,16 @@ h5 {
     color: var(--branco);
     text-decoration: none;
 }
+.btn-txt:hover {
+    color: var(--branco);
+}
 
 .btn-txt-p4 {
     color: var(--preto);
     text-decoration: none;
+}
+.btn-txt-p4:hover {
+    color: var(--preto);   
 }
 
 /* persona 3 */
@@ -155,3 +161,10 @@ a {
 a:hover {
     color: var(--azul);
 }
+
+/* persona 4 */
+
+.arrow-icon-p4 {
+    filter: invert(0%) sepia(98%) saturate(0%) hue-rotate(314deg) brightness(97%) contrast(102%);
+}
+
