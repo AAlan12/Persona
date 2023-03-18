@@ -11,16 +11,16 @@
     <link rel="stylesheet" href="../style.css">
 </head>
 <body>
-    <header>
+    <header id="head__menu">
         <div class="container-titulo__p3">
             <h1>Persona 3</h1>
         </div>
         <div class="lista-menu__p3">
             <div class="lista-menu__items__p3">
-                <a href="#">Sinopse</a>
-                <a href="#">Openings</a>
-                <a href="#">Protagonista</a>               
-                <a href="#">Links para compra</a>               
+                <a href="#sinopse">Sinopse</a>
+                <a href="#openings">Openings</a>
+                <a href="#protagonista">Protagonista</a>               
+                <a href="#links">Links para compra</a>               
             </div>
         </div>
     </header>
@@ -33,8 +33,12 @@
                 <h2 class="phase position-absolute top-50 start-50">Burn My Dread</h2>
             </div>
         </section>
+        
+        <div>
+            <button type="button" class="btn btn-primary" id="btn__header"><a href="#head__menu" class="btn-txt"><img src="../img/arrow-up-circle.svg" class="arrow-icon" alt=""></a></button>
+        </div>
 
-        <section class="container__sinopse">
+        <section class="container__sinopse" id="sinopse">
             <div class="sinopse__box">
                 <h2 class="sinopse__titulo">Sinopse</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus ducimus dignissimos maiores sit corporis quod modi quidem minima? Et temporibus doloremque obcaecati illum ipsum numquam reiciendis hic nam alias repellendus.</p>
@@ -42,7 +46,7 @@
             <img src="../img/persona 3/p3.jpg" class="img__sinopse" alt="">
         </section>
 
-        <section class="container__op">
+        <section class="container__op" id="openings">
             <h2 class="op__titulo">Openings</h2>
             <div class="op__videos">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/XxNAwZ-A88w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -50,7 +54,7 @@
             </div>    
         </section>
 
-        <section class="container__protagonista">
+        <section class="container__protagonista" id="protagonista">
             <h2 class="protagonista__titulo">Protagonista</h2>            
             <div class="protagonista__box">
                 <img src="../img/persona 3/Protagonist_29.webp" class="img__protagonista" alt="">
@@ -75,7 +79,7 @@
                 </div>                
             </div>            
         </section>
-        <section class="container__links">
+        <section class="container__links" id="links">
             <h2 class="links__titulo">Links para compra</h2>
             <ul class="links__lista">
                 <li>
