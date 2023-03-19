@@ -145,3 +145,46 @@ header {
     width: 100%;
     background: var(--amarelo);
 }
+
+/* persona 5 */
+
+.container-titulo__p5 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-left: 6em;
+}
+
+.container-titulo__p5:hover {
+    color: var(--vermelho);
+}
+
+.lista-menu__p5 {
+    position: relative;
+    margin-right: 12em;
+}
+
+.lista-menu__p5 .lista-menu__items__p5 a{
+    position: relative;
+    color: var(--branco);
+    font-size: 1em;
+    text-decoration: none;
+    margin-left: 30px;
+    transition: 0.3s ease;
+}
+
+.lista-menu__p5 .lista-menu__items__p5 a:before {
+    content: '';
+    position: absolute;
+    background: var(--preto);
+    width: 0;
+    height: 3px;
+    bottom: 0;
+    left: 0;
+    transition: 0.3s ease;
+}
+
+.lista-menu__p5 .lista-menu__items__p5 a:hover:before {
+    width: 100%;
+    background: var(--vermelho);
+}
