@@ -196,3 +196,13 @@ h5 {
 .img__arsene {
     width: 55%;
 }
+
+.links__item-p5 {
+    font-size: 32px;
+    color: var(--branco);
+    text-decoration: none;
+}
+
+.links__item-p5:hover {
+    color: var(--vermelho);
+}
