@@ -182,3 +182,17 @@ h5 {
 .links__item-p4:hover {
     color: var(--amarelo);
 }
+
+/* persona 5 */
+
+.img__protagonista-p5 {
+    width: 23%;
+}
+
+.img__joker {
+    width: 45%;
+}
+
+.img__arsene {
+    width: 55%;
+}
