@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="https://github.com/AAlan12/alura-space/blob/main/public/vitdev/thumb1.PNG?raw=true"/>
+  <img src="https://github.com/AAlan12/Persona/blob/main/img/vitdev/thumb.PNG?raw=true"/>
 </div>
 
 # Persona
@@ -14,8 +14,14 @@ Página com intuito de apresentar a franquia Persona para possíveis novos fãs.
 | :fire: Desafio     | https://aalan12.github.io/Pesona/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/AAlan12/alura-space/blob/main/public/vitdev/galeria.PNG?raw=true#vitrinedev)
-![](https://github.com/AAlan12/alura-space/blob/main/public/vitdev/galeria2.PNG?raw=true#vitrinedev)
+![](https://github.com/AAlan12/Persona/blob/main/img/vitdev/homeP3.PNG?raw=true#vitrinedev)
+![](https://github.com/AAlan12/Persona/blob/main/img/vitdev/homeP4.PNG?raw=true#vitrinedev)
+![](https://github.com/AAlan12/Persona/blob/main/img/vitdev/homeP5.PNG?raw=true#vitrinedev)
+![](https://github.com/AAlan12/Persona/blob/main/img/vitdev/bannerP3.PNG?raw=true#vitrinedev)
+![](https://github.com/AAlan12/Persona/blob/main/img/vitdev/opP5.PNG?raw=true#vitrinedev)
+![](https://github.com/AAlan12/Persona/blob/main/img/vitdev/homeP4.PNG?raw=true#vitrinedev)
+![](https://github.com/AAlan12/Persona/blob/main/img/vitdev/footerP3.PNG?raw=true#vitrinedev)
+
 
 ## Detalhes do projeto
 
