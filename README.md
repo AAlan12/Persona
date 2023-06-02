@@ -10,8 +10,8 @@ Página com intuito de apresentar a franquia Persona para possíveis novos fãs.
 | -------------  | --- |
 | :sparkles: Nome        | Persona
 | :label: Tecnologias | HTML, CSS, bootstrap
-| :rocket: URL         | https://aalan12.github.io/Pesona/
-| :fire: Desafio     | https://aalan12.github.io/Pesona/
+| :rocket: URL         | https://aalan12.github.io/Persona/
+| :fire: Desafio     | https://aalan12.github.io/Persona/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/AAlan12/Persona/blob/main/img/vitdev/homeP3.PNG?raw=true#vitrinedev)
